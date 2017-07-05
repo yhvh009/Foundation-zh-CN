@@ -102,7 +102,6 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 
 #### 架构（Structures）
 
-s
 ```
 struct NSFileProviderServiceName
 ```
