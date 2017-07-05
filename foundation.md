@@ -102,23 +102,27 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 
 #### 结构体（Structures）
 
+```
+struct NSFileProviderServiceName
+```
+
+```
+struct NSTextCheckingKey
+```
+
 ***
 
 #### 类（Classes）
 
+```
+class NSFileProviderService
+```
 
 ***
 
 #### 参考（Reference）
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+> Foundation常量（Constants）
+
+> Foundation数据类型
+    - 此文档描述Foundation框架中出现的数据类型及常量。
