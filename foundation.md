@@ -25,8 +25,8 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 >> 比较日期和时间，以及进行日历和时区的运算。
 
 > 单位（Units）和度量（Measurement）
->> 使用物理尺寸标注数字数量，以便允许在相关单位之间进行本地化（locale-aware）的格式化和转换。
->  Label numeric quantities with physical dimensions to allow locale-aware formatting and conversion between related units.
+>> 使用物理尺寸标注数字数量，以便允许在相关单位之间进行本地化（locale-aware）的格式化和转换。  
+>> Label numeric quantities with physical dimensions to allow locale-aware formatting and conversion between related units.
 
 > 数据格式化（Data Formatting）
 >> 数字，日期，度量（measurements）以及其他值与本地化（locale-aware）字符串表达式（string representations）之间进行相互转化。
@@ -83,7 +83,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 >> 使用标准Internet协议与URL进行交互及与服务端通信。
 
 > Bonjour
->> 本地网络上容易发现的广告服务，或者发现其他人的广告服务。
+>> 本地网络上容易发现的广告服务，或者发现其他人的广告服务。  
 >> Advertise services for easy discovery on local networks, or discover services advertised by others.
 
 ***
