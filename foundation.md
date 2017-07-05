@@ -12,7 +12,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 
 #### 基础
 
-> [数字（Numbers）, 数据（Data）, 和基本值（Basic Values）](numbers_data_and_basic_values.md)
+> [数字（Numbers）, 数据（Data）, 和基本值（Basic Values）](./foundation/numbers_data_and_basic_values.md)
 >> 使用原始数据类型及其他基础类型贯穿整个Cocoa。
 
 > 字符串（Strings）及文本（Text）
