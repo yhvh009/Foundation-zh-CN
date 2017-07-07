@@ -143,10 +143,3 @@
 ***
 
 1.原文是An occurrence of textual content，感觉occurrence翻译成出现不好理解，就翻译成结果了。
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
