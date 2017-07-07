@@ -3,10 +3,10 @@
 访问基本数据类型，集合（collections），和操作系统服务以定义应用程序的基本功能层。
 
 > ###### SDKs
-> iOS 2.0+
-> macOS 10.0+
-> tvOS 9.0+
-> watchOS 2.0+
+> iOS 2.0+  
+> macOS 10.0+  
+> tvOS 9.0+  
+> watchOS 2.0+  
 
 ***
 
