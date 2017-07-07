@@ -115,8 +115,7 @@
 
 #### 基础
 
-> [字符串（Strings）及文本（Text）]((./strings_and_text.md)
-)
+> [字符串（Strings）及文本（Text）](./strings_and_text.md)
 >> 创建和处理Unicode字符，使用正则表达式查找模式（patterns），以及进行文本的自然语言分析。
 
 > 集合（Collections）
