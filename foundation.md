@@ -15,7 +15,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 > [数字（Numbers）, 数据（Data）, 和基本值（Basic Values）](./foundation/numbers_data_and_basic_values.md)
 >> 使用原始数据类型及其他基础类型贯穿整个Cocoa。
 
-> [字符串（Strings）及文本（Text）](./strings_and_text.md)
+> [字符串（Strings）及文本（Text）](./foundation/strings_and_text.md)
 >> 创建和处理Unicode字符，使用正则表达式查找模式（patterns），以及进行文本的自然语言分析。
 
 > 集合（Collections）
