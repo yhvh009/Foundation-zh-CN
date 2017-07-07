@@ -168,8 +168,8 @@
 
 ***
 
-1.这个不知道通用的中文名称是什么，很少接触这个名称，如果大家有更正式的叫法可以告诉我。
-2.这里原文是 with a broader range of available memory semantics 不太清楚具体意思。
+1. 这个不知道通用的中文名称是什么，很少接触这个名称，如果大家有更正式的叫法可以告诉我。
+2. 这里原文是 with a broader range of available memory semantics 不太清楚具体意思。
 
 <br>
 <br>
