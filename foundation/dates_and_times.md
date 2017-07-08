@@ -97,7 +97,7 @@
 >
 > 使用数组（arrays），字典（dictionaries），集合（sets），和专门的集合来存储跟迭代（iterate）一组对象（Objects）或者值（Values）。
 
-> 单位（Units）和度量（Measurement）
+> [单位（Units）和度量（Measurement）](./foundation/units_and_measurement.md)
 >
 > 使用物理尺寸标注数字数量，以便允许在相关单位之间进行本地化（locale-aware）的格式化和转换。  
 > Label numeric quantities with physical dimensions to allow locale-aware formatting and conversion between related units.

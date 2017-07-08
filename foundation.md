@@ -35,7 +35,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 >
 > 比较日期和时间，以及进行日历和时区的运算。
 
-> 单位（Units）和度量（Measurement）
+> [单位（Units）和度量（Measurement）](./foundation/units_and_measurement.md)
 >
 > 使用物理尺寸标注数字数量，以便允许在相关单位之间进行本地化（locale-aware）的格式化和转换。  
 > Label numeric quantities with physical dimensions to allow locale-aware formatting and conversion between related units.

@@ -13,6 +13,9 @@
 
 # ChangeLog
 
+#### 2017-07-08
+- 单位（Units）和度量（Measurement）页面
+
 #### 2017-07-08之前
 - Foundation首页
 - 数字（Numbers）, 数据（Data）, 和基本值（Basic Values）页面
