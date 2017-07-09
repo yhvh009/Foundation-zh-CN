@@ -197,9 +197,9 @@ Label numeric quantities with physical dimensions to allow locale-aware formatti
 >
 > 比较日期和时间，以及进行日历和时区的运算。
 
-> 数据格式化（Data Formatting）
+> [数据格式化（Data Formatting）](/foundation/data_formatting.md)
 >
-> 数字，日期，度量（measurements）以及其他值与本地化（locale-aware）字符串表达式（string representations）之间进行相互转化。
+> 在数字，日期，度量（measurements）以及其他值与本地化（locale-aware）字符串表达式（string representations）之间进行相互转化。
 
 > 过滤（Filters）和排序（Sorting）
 >
