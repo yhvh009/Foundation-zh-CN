@@ -13,6 +13,9 @@
 
 # ChangeLog
 
+#### 2017-07-09
+- 数据格式化（Data Formatting）页面
+
 #### 2017-07-08
 - 单位（Units）和度量（Measurement）页面
 
