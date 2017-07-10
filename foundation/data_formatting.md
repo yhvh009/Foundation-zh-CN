@@ -137,6 +137,6 @@
 > 使用物理尺寸标注数字数量，以便允许在相关单位之间进行本地化（locale-aware）的格式化和转换。  
 > Label numeric quantities with physical dimensions to allow locale-aware formatting and conversion between related units.
 
-> 过滤（Filters）和排序（Sorting）
+> [过滤（Filters）和排序（Sorting）](/foundation/filters_and_sorting.md)
 >
-> 使用predicates，表达式（expressions）和排序描述式（sort descriptors）来检测在集合（collections）以及其他服务中的元素。
+> 使用谓词（predicates），表达式（expressions）和排序描述式（sort descriptors）来检测在集合（collections）以及其他服务中的元素。

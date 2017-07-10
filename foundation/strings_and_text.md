@@ -142,9 +142,9 @@
 >
 > 在数字，日期，度量（measurements）以及其他值与本地化（locale-aware）字符串表达式（string representations）之间进行相互转化。
 
-> 过滤（Filters）和排序（Sorting）
+> [过滤（Filters）和排序（Sorting）](/foundation/filters_and_sorting.md)
 >
-> 使用predicates，表达式（expressions）和排序描述式（sort descriptors）来检测在集合（collections）以及其他服务中的元素。
+> 使用谓词（predicates），表达式（expressions）和排序描述式（sort descriptors）来检测在集合（collections）以及其他服务中的元素。
 
 ***
 
