@@ -52,7 +52,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 
 #### 应用程序支持
 
-> 任务管理（Task Management）
+> [任务管理（Task Management）](/foundation/task_management.md)
 >
 > 管理你应用程序的工作以及它们与用户和系统之间的交互。
 
