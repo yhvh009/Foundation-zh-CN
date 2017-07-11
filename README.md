@@ -13,6 +13,9 @@
 
 # ChangeLog
 
+#### 2017-07-11
+- 任务管理（Task Management）页面
+
 #### 2017-07-10
 - 过滤（Filters）和排序（Sorting）页面
 
