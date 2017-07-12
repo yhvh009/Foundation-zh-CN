@@ -56,7 +56,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 >
 > 管理你应用程序的工作以及它们与用户和系统之间的交互。
 
-> 资源（Resources）
+> [资源（Resources）](/foundation/resources.md)
 >
 > 访问你应用程序绑定（bundled）的assets和其他数据。
 

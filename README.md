@@ -12,6 +12,8 @@
 ---
 
 # ChangeLog
+#### 2017-07-12
+- 资源（Resources）页面
 
 #### 2017-07-11
 - 任务管理（Task Management）页面

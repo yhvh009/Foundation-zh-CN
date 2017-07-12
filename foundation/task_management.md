@@ -118,7 +118,7 @@
 
 #### 应用程序支持
 
-> 资源（Resources）
+> [资源（Resources）](/foundation/resources.md)
 >
 > 访问你应用程序绑定（bundled）的assets和其他数据。
 
