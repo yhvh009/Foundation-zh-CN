@@ -122,7 +122,7 @@
 >
 > 访问你应用程序绑定（bundled）的assets和其他数据。
 
-> 通知（Notifications）
+> [通知（Notifications）](/foundation/notifications.md)
 >
 > 设计广播消息及订阅广播的模式
 

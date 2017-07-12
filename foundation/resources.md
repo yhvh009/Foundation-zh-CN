@@ -36,7 +36,7 @@
 >
 > 管理你应用程序的工作以及它们与用户和系统之间的交互。
 
-> 通知（Notifications）
+> [通知（Notifications）](/foundation/notifications.md)
 >
 > 设计广播消息及订阅广播的模式
 
