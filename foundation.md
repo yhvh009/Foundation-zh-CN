@@ -64,7 +64,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 >
 > 设计广播消息及订阅广播的模式
 
-> 应用程序拓展（Extension）支持
+> [应用程序拓展（Extension）支持](/foundation/app_extension_support.md)
 >
 > 管理应用程序拓展跟它的主程序（hosting app）之间的交互。
 

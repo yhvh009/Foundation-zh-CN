@@ -59,7 +59,7 @@
 >
 > 访问你应用程序绑定（bundled）的assets和其他数据。
 
-> 应用程序拓展（Extension）支持
+> [应用程序拓展（Extension）支持](/foundation/app_extension_support.md)
 >
 > 管理应用程序拓展跟它的主程序（hosting app）之间的交互。
 

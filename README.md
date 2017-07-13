@@ -12,6 +12,9 @@
 ---
 
 # ChangeLog
+#### 2017-07-13
+- 应用程序拓展（Extension）支持页面
+
 #### 2017-07-12
 - 资源（Resources）页面
 - 通知（Notifications）页面
