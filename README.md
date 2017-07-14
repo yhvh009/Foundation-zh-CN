@@ -12,6 +12,9 @@
 ---
 
 # ChangeLog
+#### 2017-07-14
+- 错误（Errors）及异常（Exceptions）页面
+
 #### 2017-07-13
 - 应用程序拓展（Extension）支持页面
 

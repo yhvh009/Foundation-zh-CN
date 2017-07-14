@@ -76,7 +76,7 @@
 >
 > 设计广播消息及订阅广播的模式
 
-> 错误（Errors）及异常（Exceptions）
+> [错误（Errors）及异常（Exceptions）](/foundation/errors_and_exceptions.md)
 >
 > 响应你在api交互中产生的问题情况，微调你的应用以便更好的调试。
 
