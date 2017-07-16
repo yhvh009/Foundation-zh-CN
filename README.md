@@ -12,6 +12,9 @@
 ---
 
 # ChangeLog
+#### 2017-07-16
+- 脚本支持（Scripting Support）页面
+
 #### 2017-07-14
 - 错误（Errors）及异常（Exceptions）页面
 

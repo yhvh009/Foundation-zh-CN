@@ -91,6 +91,6 @@
 >
 > 管理应用程序拓展跟它的主程序（hosting app）之间的交互。
 
-> 脚本支持（Scripting Support）
+> [脚本支持（Scripting Support）](/foundation/scripting_support.md)
 >
 > 允许用户使用AppleScript和其他自动化技术来控制你的应用，或者在你的应用中运行脚本（scripts）。

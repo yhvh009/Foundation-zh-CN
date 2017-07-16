@@ -66,6 +66,6 @@
 >
 > 响应你在api交互中产生的问题情况，微调你的应用以便更好的调试。
 
-> 脚本支持（Scripting Support）
+> [脚本支持（Scripting Support）](/foundation/scripting_support.md)
 >
 > 允许用户使用AppleScript和其他自动化技术来控制你的应用，或者在你的应用中运行脚本（scripts）。
