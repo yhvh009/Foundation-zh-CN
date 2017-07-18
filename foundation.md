@@ -80,7 +80,7 @@ Foundation框架提供了应用程序的基本功能层以及frameworks，数据
 
 #### 文件及数据持久化
 
-> 文件系统
+> [文件系统](/foundation/file_system.md)
 >
 > 在文件系统中创建，读取，写入以及检查文件跟文件夹。
 
