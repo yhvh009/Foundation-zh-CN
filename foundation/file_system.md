@@ -79,7 +79,7 @@
 
 #### 文件及数据持久化
 
-> 存档（Archives）和序列化（Serialization）
+> [归档（Archives）和序列化（Serialization）](/foundation/archives_and_serialization.md)
 >
 > 在对象（objects），值（values）与property list，JSON及其他扁平的二进制表现形式（flat binary representations）之间相互转化。
 

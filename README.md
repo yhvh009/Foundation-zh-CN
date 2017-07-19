@@ -13,6 +13,9 @@
 
 # ChangeLog
 
+#### 2017-07-19
+- 归档（Archives）和序列化（Serialization）页面
+
 #### 2017-07-18
 - 文件系统页面
 
