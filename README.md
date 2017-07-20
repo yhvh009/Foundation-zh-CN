@@ -1,4 +1,7 @@
 # Foundation-zh-CN
+
+### 项目迁移到我的博客上，此地址已不再更新，新地址: https://yhvh009.github.io/posts/Apple%20Foundation%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E8%AE%A1%E5%88%92/
+
 [Apple 官方Foundation框架（Swift版）中文版（个人翻译学习用）](foundation.md)
 
 ---
